@@ -1,0 +1,101 @@
+Respondent_ID,Age,Gender,Education_Level,Industry,Security_Score,Scalability_Score,Efficiency_Score
+1,25,Male,Bachelor,Technology,4,3,4
+2,34,Female,Master,Finance,5,4,5
+3,45,Male,Bachelor,Healthcare,4,3,4
+4,29,Female,PhD,Supply Chain,3,4,5
+5,38,Male,Master,Technology,5,5,4
+6,42,Female,Bachelor,Healthcare,4,3,4
+7,33,Male,Bachelor,Technology,3,4,3
+8,28,Female,PhD,Finance,5,5,5
+9,47,Male,Master,Supply Chain,4,4,4
+10,36,Female,Bachelor,Technology,4,3,4
+11,58,Male,Associate,Healthcare,4,3,5
+12,48,Non-binary,Associate,Technology,3,4,3
+13,34,Male,PhD,Finance,4,5,5
+14,27,Female,PhD,Supply Chain,3,5,3
+15,40,Non-binary,Master,Technology,4,5,3
+16,58,Female,Associate,Technology,5,3,4
+17,38,Male,Associate,Healthcare,3,4,5
+18,42,Non-binary,Associate,Retail,3,4,3
+19,30,Male,Bachelor,Healthcare,3,4,3
+20,30,Female,Associate,Finance,3,5,5
+21,43,Male,Bachelor,Supply Chain,4,3,4
+22,55,Non-binary,Master,Healthcare,3,5,4
+23,59,Non-binary,Bachelor,Technology,5,5,3
+24,43,Female,Master,Supply Chain,5,4,5
+25,22,Male,Associate,Supply Chain,3,5,4
+26,41,Non-binary,Associate,Technology,5,4,5
+27,21,Female,Master,Healthcare,3,3,5
+28,43,Non-binary,PhD,Technology,3,4,3
+29,49,Non-binary,Master,Retail,5,3,4
+30,57,Male,PhD,Supply Chain,3,4,3
+31,21,Non-binary,Bachelor,Manufacturing,5,5,4
+32,40,Male,Bachelor,Manufacturing,4,5,4
+33,52,Non-binary,Bachelor,Finance,3,3,4
+34,31,Female,Associate,Technology,4,3,4
+35,41,Non-binary,Bachelor,Technology,5,3,4
+36,44,Male,PhD,Finance,4,4,5
+37,46,Male,Bachelor,Finance,4,4,3
+38,47,Female,Master,Finance,5,3,5
+39,35,Non-binary,Master,Supply Chain,4,5,4
+40,34,Non-binary,Associate,Retail,4,4,3
+41,22,Female,Master,Technology,5,4,4
+42,56,Non-binary,PhD,Supply Chain,4,4,3
+43,26,Non-binary,Bachelor,Finance,5,3,5
+44,40,Male,Associate,Technology,4,3,3
+45,28,Non-binary,Bachelor,Supply Chain,5,3,3
+46,58,Non-binary,Bachelor,Retail,5,3,3
+47,37,Female,PhD,Supply Chain,4,3,3
+48,23,Female,Master,Retail,4,5,3
+49,44,Male,Master,Finance,4,5,4
+50,33,Non-binary,Bachelor,Retail,3,3,3
+51,28,Non-binary,Associate,Technology,3,4,3
+52,45,Non-binary,Master,Finance,3,3,5
+53,21,Male,Associate,Technology,5,5,3
+54,39,Male,Master,Manufacturing,4,5,5
+55,47,Female,Associate,Healthcare,5,4,4
+56,26,Male,PhD,Retail,3,5,3
+57,27,Non-binary,Associate,Healthcare,4,3,5
+58,54,Non-binary,PhD,Healthcare,5,4,5
+59,33,Male,PhD,Retail,4,3,4
+60,36,Non-binary,Associate,Finance,5,3,3
+61,55,Non-binary,PhD,Manufacturing,4,4,3
+62,59,Male,Bachelor,Technology,3,3,5
+63,23,Male,PhD,Supply Chain,3,5,3
+64,21,Non-binary,Master,Technology,4,3,5
+65,25,Non-binary,Associate,Supply Chain,5,4,3
+66,23,Non-binary,Bachelor,Technology,3,4,5
+67,48,Female,Associate,Retail,3,4,3
+68,37,Female,Master,Manufacturing,3,3,4
+69,45,Female,Master,Supply Chain,4,4,3
+70,53,Male,Master,Finance,4,4,3
+71,29,Female,PhD,Technology,5,3,4
+72,55,Male,PhD,Technology,5,5,3
+73,33,Male,Associate,Supply Chain,5,3,4
+74,50,Female,Associate,Finance,4,4,3
+75,34,Female,Bachelor,Finance,4,4,5
+76,27,Female,Bachelor,Retail,5,3,5
+77,33,Non-binary,Associate,Retail,5,5,3
+78,42,Female,PhD,Retail,4,4,3
+79,59,Non-binary,Master,Retail,5,4,3
+80,40,Male,Associate,Retail,3,4,5
+81,35,Non-binary,Bachelor,Retail,4,3,3
+82,37,Female,PhD,Manufacturing,5,4,5
+83,43,Male,Associate,Finance,4,5,4
+84,45,Male,Associate,Retail,3,4,5
+85,44,Male,PhD,Finance,4,4,5
+86,48,Non-binary,Associate,Finance,4,5,4
+87,34,Female,PhD,Healthcare,4,4,5
+88,20,Male,Master,Manufacturing,4,3,3
+89,44,Male,PhD,Retail,3,3,3
+90,26,Male,PhD,Technology,4,3,5
+91,28,Non-binary,PhD,Supply Chain,4,5,3
+92,43,Non-binary,Associate,Technology,5,4,5
+93,20,Female,Associate,Manufacturing,4,3,3
+94,27,Non-binary,PhD,Supply Chain,5,5,3
+95,43,Male,Associate,Manufacturing,3,4,5
+96,30,Female,Bachelor,Finance,3,5,3
+97,36,Male,Bachelor,Supply Chain,3,3,5
+98,27,Male,Associate,Finance,3,3,3
+99,54,Non-binary,Associate,Technology,5,3,3
+100,54,Female,PhD,Technology,4,5,4
